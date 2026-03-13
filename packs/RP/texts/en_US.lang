@@ -1,0 +1,8 @@
+## Localização do Pack
+pack.name=bedrock-system-libraey RP
+pack.description=Resource Pack do projeto bedrock-system-libraey
+
+## Exemplo de localizações adicionais para RP
+## item.custom:my_item.name=Meu Item
+## entity.custom:my_entity.name=Minha Entidade
+## tile.custom:my_block.name=Meu Bloco
